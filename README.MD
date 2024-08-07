@@ -48,8 +48,6 @@ As a customer shopping on our e-commerce website, I want to view and interact wi
 ### Additional Considerations
 
 - Accessibility: Ensure the component is usable with screen readers and keyboard navigation
-- Performance: Optimize for fast loading times, especially for images
-- Internationalization: Support multiple currencies and languages
 
 ## Collaborative - Development Guidelines
 
