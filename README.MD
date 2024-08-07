@@ -33,16 +33,13 @@ As a customer shopping on our e-commerce website, I want to view and interact wi
    - Display average rating and review count
    - Provide access to detailed reviews
 
-7. **Related Products:**
-   - Show suggestions for related products
-
-8. **Responsive Design:**
+7. **Responsive Design:**
    - Ensure correct display on desktop and mobile devices
 
-9. **Error Handling:**
+8. **Error Handling:**
    - Display clear error messages for network issues
 
-10. **Persistence:**
+9. **Persistence:**
     - Remember selected quantity and variant across page refreshes
 
 ### Additional Considerations
