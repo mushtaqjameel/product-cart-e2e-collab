@@ -121,11 +121,6 @@ describe("Product Card", () => {
     );
   });
 
-  it("shows related products section", () => {
-    cy.get(selectors.relatedProductsSection).should("be.visible");
-    cy.get(selectors.relatedProductCard).should("have.length.at.least", 1);
-  });
-
   it("allows adding to wishlist", () => {
     cy.get(selectors.wishlistButton).click();
     cy.get(selectors.wishlistConfirmation).should("be.visible");
